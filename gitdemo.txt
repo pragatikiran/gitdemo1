@@ -1,0 +1,9 @@
+JVM architecture with journey of java program from source code to execution stage
+As shown in the below architecture diagram, JVM subsystems are :
+ Class Loader Subsystem
+ Runtime Data Area
+ Execution Engine
+
+$ git rm --cached README.md
+Don’t forget the option “--cached” when unstaging a file. If you forget it,
+you could lose your file!
